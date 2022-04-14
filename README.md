@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emylkk&show_icons=true&count_private=true&theme=radical)](https://github.com/Emylkk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emylkk&layout=compact)](https://github.com/Emylkk/github-readme-stats)
+--Mostly LuaCodes is only editted
 
 ### **Preview of Earlier Projects**:
 <div>
